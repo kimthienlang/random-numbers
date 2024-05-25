@@ -1,0 +1,11 @@
+E:\SourceCode\MainProjects\Random\random_number\bin\Debug\random_number.exe.config
+E:\SourceCode\MainProjects\Random\random_number\bin\Debug\random_number.exe
+E:\SourceCode\MainProjects\Random\random_number\bin\Debug\random_number.pdb
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.csproj.AssemblyReference.cache
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.Properties.Resources.resources
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.csproj.GenerateResource.cache
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.csproj.CoreCompileInputs.cache
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.exe
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.pdb
+E:\SourceCode\MainProjects\Random\random_number\obj\Debug\random_number.MainForm.resources
